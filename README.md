@@ -13,12 +13,20 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=undefined.undefined&left_color=darkgreen"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=onurkya.onurkya&left_color=darkgreen&left_text=Visitors"  />
 </div>
 
 ###
 
-<div align="left">
+<h2 align="center">ABOUT ME</h2>
+
+###
+
+<p align="center">I'm 21 years old. I am a 3th year Software Engineering student at Fırat University. I have done research in many areas of software and developed projects in most of them. Specifically, I work on artificial intelligence and cybersecurity.</p>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/muhammed-onur-kaya-6b4b67244/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -39,18 +47,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">I'm 21 years old. I am a 3th year Software Engineering student at Fırat University. I have done research in many areas of software and developed projects in most of them. Specifically, I work on artificial intelligence and cybersecurity.</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=undefined" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=undefined" height="150" alt="languages graph"  />
-</div>
+<h2 align="left">TECHNICAL SKILLS</h2>
 
 ###
 
