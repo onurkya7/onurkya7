@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">I'm 21 years old. I am a 3th year Software Engineering student at Fırat University. I have done research in many areas of software and developed projects in most of them. Specifically, I work on artificial intelligence and cybersecurity.</p>
+<p align="center">I'm 22 years old. I am a 4th year Software Engineering student at Fırat University. I have done research in many areas of software and developed projects in most of them. Specifically, I work on artificial intelligence and cybersecurity.</p>
 
 ###
 
