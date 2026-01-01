@@ -4,18 +4,7 @@
 
 <h4 align="center">A fun Software Developer from Turkey</h4>
 
-###
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammed-onur-kaya-6b4b67244/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://twitter.com/onurkya__" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -25,19 +14,29 @@
   <a href="https://stackoverflow.com/users/21197163/muhammed-onur-kaya" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/muhammed-onur-kaya-6b4b67244/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.hackerrank.com/onurkya7?hr_r=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="https://medium.com/@muhammedonurkya" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" alt="@muhammedonurkya" width="52" height="40" /></a>
 </p>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurkya7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onurkya7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://media.giphy.com/media/SSM6HdOicCahnOZ5hM/giphy.gif"  />
+</div>
+
+###
+
+###
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=onurkya7&show_icons=true&theme=transparent" height="160" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=onurkya7&layout=compact&theme=transparent&langs_count=5" height="160" />
 </div>
 
 ###
